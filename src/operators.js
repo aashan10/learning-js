@@ -81,3 +81,5 @@ console.log(1 === "1", "Number and String");
  */
 let result;
 (1 === 1) ? (result = true) : (result = false);
+
+alert("hello");
