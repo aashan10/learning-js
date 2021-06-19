@@ -47,3 +47,20 @@ const doAnotherThing = () => {
 
 // sef executing add function
 ((a, b) => {console.log(a+ b)})(5,7);
+
+
+
+
+
+/**
+ * Arrow Functions
+ * 
+ * EcmaScript v5, v6 
+ *  - JS
+ * 
+ * - New Syntax
+ */
+
+function fun() {}
+
+const fun2 = () => {}
